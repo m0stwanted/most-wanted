@@ -8,7 +8,7 @@ $ apt install python2
 
 $ git clone https://github.com/m0stwanted/most-wanted
 
-$ cd indishell-DDoS
+$ cd most-wanted
 
 enter target ip add. and port then start your ddos attack.
 
