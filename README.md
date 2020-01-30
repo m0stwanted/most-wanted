@@ -10,6 +10,8 @@ $ git clone https://github.com/m0stwanted/most-wanted
 
 $ cd most-wanted
 
+$ python2 indi.shell.py
+
 enter target ip add. and port then start your ddos attack.
 
 Note:-works on http servers,using of multiple devices can give result fastly
