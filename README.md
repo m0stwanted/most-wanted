@@ -18,4 +18,5 @@ Note:-works on http servers,using of multiple devices can give result fastly
 
 
 Contact Me 
-Instagram :- indi.shell
+Instagram :- chandan___chauhan
+
